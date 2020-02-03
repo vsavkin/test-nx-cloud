@@ -116,8 +116,7 @@
     "default": {
       "runner": "@nrwl/nx-cloud",
       "options": {
-        "url": "https://api.staging.nrwl.io",
-        "accessToken": "YTYzMThiN2UtYjgzYy00YzJiLTg5M2UtNzFjOGVkZWFiNDQ0fHJlYWQ=",
+        "accessToken": "NjlkMzc1MDgtOGY5Yi00ZDBiLTk1ZDEtYTQzZTIxMzg5OTE2fHJlYWQ=",
         "cacheableOperations": ["build", "lint", "test"]
       }
     }
