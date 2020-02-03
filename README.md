@@ -8,13 +8,13 @@ This repo has two applications. Each app has 15 libraries, each of which consist
 
 If we run `nx dep-graph`, we will see something like this:
 
-<p align="center"><img src="https://raw.githubusercontent.com/nrwl/nx-distributed-cache-example./master/readme-assets/graph.png" width="800"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/nrwl/nx-distributed-cache-example/master/readme-assets/graph.png" width="800"></p>
 
 ### CI Provider
 
 This example will use CircleCI, but a very similar setup will work with Azure, Jenkins, GitLab, etc..
 
-**To see CI runs click [here](https://app.circleci.com/jobs/github/nrwl/nx-distributed-cache-example).**
+**To see CI runs click [here](https://circleci.com/gh/nrwl/nx-distributed-cache-example).**
 
 The CircleCI configuration looks like this:
 
